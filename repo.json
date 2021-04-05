@@ -1,0 +1,20 @@
+[
+	{
+		"Name": "Startup Commands",
+		"InternalName": "StartupCommands",
+		"Author": "SaltyCog",
+		"Description": "Perform various behaviors/commands right after logging into a character.",
+		"Tags": [ "startup", "login", "commands", "saltycog" ],
+		"RepoUrl": "https://github.com/saltycog/ffxiv-startup-commands",
+		"AssemblyVersion": "1.0.0",
+		"ApplicableVersion": "any",
+		"DalamudApiLevel": 2,
+		"IsHide": "False",
+		"IsTestingExclusive": "False",
+		"DownloadCount": 0,
+		"LastUpdate": 1617416143,
+		"DownloadLinkInstall": "https://github.com/saltycog/ffxiv-startup-commands/releases/download/1.0.0/ffxiv-startup-commands.zip",
+		"DownloadLinkTesting": "https://github.com/saltycog/ffxiv-startup-commands/releases/download/1.0.0/ffxiv-startup-commands.zip",
+		"DownloadLinkUpdate": "https://github.com/saltycog/ffxiv-startup-commands/releases/download/1.0.0/ffxiv-startup-commands.zip"
+	}
+]
