@@ -13,3 +13,6 @@ Contains the repository info for SaltyCog's FFXIV Dalamud plugins, for use insid
 * Check the Enabled option.
 * Click "Save and Close" at the bottom.
 * Back at the plugins list, select the newly added plugins you wish to install/enable.
+
+## Donations
+**Ko-Fi:** https://ko-fi.com/saltycog
