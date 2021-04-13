@@ -3,6 +3,7 @@ Contains the repository info for SaltyCog's FFXIV Dalamud plugins, for use insid
 
 ## Plugins
 * Startup Commands (`/startup`): Perform custom commands and behaviors upon logging into a character.
+  * https://github.com/saltycog/ffxiv-startup-commands
 
 ## Installation Instructions
 * Open the plugin settings window by entering `/xlplugins` in the FFXIV chat window.
