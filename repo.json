@@ -6,7 +6,7 @@
 		"Description": "Perform various behaviors/commands right after logging into a character.",
 		"Tags": [ "startup", "login", "commands", "saltycog" ],
 		"RepoUrl": "https://github.com/saltycog/ffxiv-startup-commands",
-		"AssemblyVersion": "1.0.0",
+		"AssemblyVersion": "1.0.1",
 		"ApplicableVersion": "any",
 		"DalamudApiLevel": 3,
 		"IsHide": "False",
