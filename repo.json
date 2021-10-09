@@ -13,6 +13,7 @@
 		"IsTestingExclusive": "False",
 		"DownloadCount": 0,
 		"LastUpdate": 1617416143,
+		"IconUrl": "https://github.com/saltycog/ffxiv-startup-commands/raw/master/icon.png"
 		"DownloadLinkInstall": "https://github.com/saltycog/ffxiv-startup-commands/releases/download/1.0.3/ffxiv-startup-commands.zip",
 		"DownloadLinkTesting": "https://github.com/saltycog/ffxiv-startup-commands/releases/download/1.0.3/ffxiv-startup-commands.zip",
 		"DownloadLinkUpdate": "https://github.com/saltycog/ffxiv-startup-commands/releases/download/1.0.3/ffxiv-startup-commands.zip"
