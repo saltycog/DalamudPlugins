@@ -9,11 +9,11 @@
 		"AssemblyVersion": "1.0.3",
 		"ApplicableVersion": "any",
 		"DalamudApiLevel": 4,
+		"IconUrl": "https://raw.githubusercontent.com/saltycog/ffxiv-startup-commands/master/icon.png",
 		"IsHide": "False",
 		"IsTestingExclusive": "False",
 		"DownloadCount": 0,
-		"LastUpdate": 1617416143,
-		"IconUrl": "https://github.com/saltycog/ffxiv-startup-commands/raw/master/icon.png",
+		"LastUpdate": 1633826656,
 		"DownloadLinkInstall": "https://github.com/saltycog/ffxiv-startup-commands/releases/download/1.0.3/ffxiv-startup-commands.zip",
 		"DownloadLinkTesting": "https://github.com/saltycog/ffxiv-startup-commands/releases/download/1.0.3/ffxiv-startup-commands.zip",
 		"DownloadLinkUpdate": "https://github.com/saltycog/ffxiv-startup-commands/releases/download/1.0.3/ffxiv-startup-commands.zip"
