@@ -6,16 +6,16 @@
 		"Description": "Perform various behaviors/commands right after logging into a character.",
 		"Tags": [ "startup", "login", "commands", "saltycog" ],
 		"RepoUrl": "https://github.com/saltycog/ffxiv-startup-commands",
-		"AssemblyVersion": "1.1.0.2",
+		"AssemblyVersion": "1.1.1.0",
 		"ApplicableVersion": "any",
-		"DalamudApiLevel": 7,
+		"DalamudApiLevel": 8,
 		"IconUrl": "https://raw.githubusercontent.com/saltycog/ffxiv-startup-commands/master/icon.png",
 		"IsHide": "False",
 		"IsTestingExclusive": "False",
 		"DownloadCount": 0,
 		"LastUpdate": 1633826656,
-		"DownloadLinkInstall": "https://github.com/saltycog/ffxiv-startup-commands/releases/download/1.1.0.2/ffxiv-startup-commands.zip",
-		"DownloadLinkTesting": "https://github.com/saltycog/ffxiv-startup-commands/releases/download/1.1.0.2/ffxiv-startup-commands.zip",
-		"DownloadLinkUpdate": "https://github.com/saltycog/ffxiv-startup-commands/releases/download/1.1.0.2/ffxiv-startup-commands.zip"
+		"DownloadLinkInstall": "https://github.com/saltycog/ffxiv-startup-commands/releases/download/1.1.1.0/ffxiv-startup-commands.zip",
+		"DownloadLinkTesting": "https://github.com/saltycog/ffxiv-startup-commands/releases/download/1.1.1.0/ffxiv-startup-commands.zip",
+		"DownloadLinkUpdate": "https://github.com/saltycog/ffxiv-startup-commands/releases/download/1.1.1.0/ffxiv-startup-commands.zip"
 	}
 ]
