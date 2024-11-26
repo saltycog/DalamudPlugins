@@ -8,7 +8,7 @@
 		"RepoUrl": "https://github.com/saltycog/ffxiv-startup-commands",
 		"AssemblyVersion": "1.2.1.0",
 		"ApplicableVersion": "any",
-		"DalamudApiLevel": 10,
+		"DalamudApiLevel": 11,
 		"IconUrl": "https://raw.githubusercontent.com/saltycog/ffxiv-startup-commands/master/icon.png",
 		"IsHide": "False",
 		"IsTestingExclusive": "False",
